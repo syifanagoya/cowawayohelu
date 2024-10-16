@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cowawayohelu.pages.dev/sitemap.xml
